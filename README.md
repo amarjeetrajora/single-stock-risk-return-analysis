@@ -92,7 +92,7 @@ risk-return-analysis/
 
 ```bash
 git clone <repo-url>
-cd risk return analysis
+cd single-stock-risk-return-analysis
 pip install -r requirements.txt
 jupyter notebook notebooks/Reliance_Risk_Return_Analysis.ipynb
 ```
